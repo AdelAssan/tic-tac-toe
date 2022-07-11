@@ -1,0 +1,10 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/page/page__title.css);
+@import url(../blocks/area/area.css);
+@import url(../blocks/area/area__box.css);
+@import url(../blocks/modal-result/modal-result.css);
+@import url(../blocks/modal-result/modal-result__button.css);
+@import url(../blocks/modal-result/modal-result__window.css);
+@import url(../blocks/modal-result/modal-result__content.css);
+@import url(../blocks/modal-result/modal-result__overlay.css);

@@ -1,0 +1,8 @@
+.modal-result__button{
+    width: 150px;
+    height: 20px;
+    background-color: #00FFFF;
+    color: #0020C2;
+    text-align: center;
+    cursor: pointer;
+}

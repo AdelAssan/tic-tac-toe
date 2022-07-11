@@ -1,0 +1,11 @@
+.area__box {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #2B65EC;
+    box-sizing: border-box;
+    font-size: 34px;
+    color: #0020C2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

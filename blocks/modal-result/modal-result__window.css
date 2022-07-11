@@ -1,0 +1,14 @@
+.modal-result__window{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border: 1px solid #2B65EC;
+    background-color: #659EC7;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    align-items: center;
+}
