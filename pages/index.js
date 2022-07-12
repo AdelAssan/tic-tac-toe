@@ -37,6 +37,10 @@ const check = () => {
             result = 'Победили нолики';
             prepareResult(result);
         }
+        else if(move === 9) {
+            result = 'ничья';
+            prepareResult(result);
+        }
     }
 }
 
